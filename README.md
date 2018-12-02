@@ -60,6 +60,7 @@ pod install
 ```
 
 # Features
+
 Core features:
 * Semantic Memory Exercise
 * Episodic Memory Exercise
@@ -68,6 +69,7 @@ Core features:
 * Progress Viewer
 
 # Authors
+
 List of members who contributed to this project
 * Mihai Lapuste
 * Oleg Strbac
