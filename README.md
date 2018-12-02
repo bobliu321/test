@@ -1,4 +1,4 @@
-# MindSafe Application
+# MindSafe Application 
 
 Mindsafe is an all-in-one application with four main functions: safety of the user using geofencing technology, in addition to other safety features utilizing location services, mental training in the form of Episodic and Semantic exercises, an Alzheimer’s specific notification system which is aimed at combating the effects of sundowning, and daily analytical progress updates to caregivers and loved ones. Mindsafe’s main purpose is to provide peace of mind. This application helps users that suffer first hand from Alzheimer’s to better manage their lives and track their disease, while allowing their caregivers and loved ones to follow their daily progress. Mindsafe has a simplistic user interface design and features, which provides ease of use for the elderly, and users with varying levels of educational backgrounds.
 
@@ -7,7 +7,7 @@ Mindsafe is an all-in-one application with four main functions: safety of the us
 These instructions will provide you a copy of the project functioning on your local machine for development and testing purposes. 
 
 ### Prerequisites
- * Xcode 10.0 / Swift 4.2 and above
+ * Xcode 10.0 / Swift 4.0 and above
  * iOS >= 9.0
  * macOS >= 10.13.0
  * CocoaPods (library compiling errors)
@@ -22,6 +22,8 @@ To copy the project to local machine, go to the terminal and redirect to the des
 ```
 git clone -b Mihai https://github.com/mihailapuste/mindsafe
 ```
+
+Another method would be to download the Zip through github and extract the files to desired location
 
 ## Starting the Application
 
