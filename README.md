@@ -47,14 +47,19 @@ Follow the steps below
 sudo gem install cocoapods-clean
 ```
 This will install Gem into Ruby residing in System library.
+
 2. Then open the mindsafe directory which was cloned in the previous steps
+
 3. Then delete and clean all the pod libraries by typing in terminal:
 ```
 pod deintegrate
 ```
+Then
+```
 pod clean
 ```
 4. Install pod libraries into the project by typing in terminal:
+
 ```
 pod install
 ```
