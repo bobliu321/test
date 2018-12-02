@@ -59,7 +59,7 @@ pod clean
 pod install
 ```
 
-# Features
+## Features
 
 Core features:
 * Semantic Memory Exercise
@@ -68,7 +68,7 @@ Core features:
 * Geofence Tracker
 * Progress Viewer
 
-# Authors
+## Authors
 
 List of members who contributed to this project
 * Mihai Lapuste
